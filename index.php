@@ -18,7 +18,7 @@
 					<div class="span6">
 						<h1>GET HANDMADE <br/> MAKER GOODS <br/> EVERY MONTH</h1>
 						<p>We source and ship you 2-3 sustainable, <br/> useful household items each month.</p>
-					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4GUEQQZWJTQMQ">	<button class="btn btn-large theme" type="button">Subscribe Now</button></a>
+					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">	<button class="btn btn-large theme" type="button">Subscribe Now</button></a>
 					</div>
 				</div>
 			
@@ -81,70 +81,69 @@
 						  <div class="tab-pane active" id="feat">
 						  	<article class="span4">
 								<div class="view view-thumb">
-									<img src="img/products/1.gif" alt="" />
+									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
 									<div class="mask">
-										<h2>$69</h2>
-				                        <p>Product description Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				                        <a href="product.html" class="info">View</a> <a href="checkout.html" class="info">Buy</a>
+										<h2>Bamboo Brush</h2>
+				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+				                       
 									</div>
 								</div>
-								<p><a href="#">Sample Featured Product</a></p>
+							
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-								<img src="img/products/2.jpg" alt="" />
+									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
 									<div class="mask">
-										<h2>$69</h2>
-				                        <p>Product description Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				                        <a href="product.html" class="info">View</a> <a href="checkout.html" class="info">Buy</a>
+										<h2>Bamboo Brush</h2>
+				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+				                       
 									</div>
 								</div>
-								<p><a href="#">Sample Featured Product</a></p>
+							
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="img/products/3.gif" alt="" />
+									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
 									<div class="mask">
-										<h2>$69</h2>
-				                        <p>Product description Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				                        <a href="product.html" class="info">View</a> <a href="checkout.html" class="info">Buy</a>
+										<h2>Bamboo Brush</h2>
+				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+				                       
 									</div>
 								</div>
-								<p><a href="#">Sample Featured Product</a></p>
+							
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="img/products/4.gif" alt="" />
+									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
 									<div class="mask">
-										<h2>$69</h2>
-				                        <p>Product description Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				                        <a href="product.html" class="info">View</a> <a href="checkout.html" class="info">Buy</a>
+										<h2>Bamboo Brush</h2>
+				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+				                       
 									</div>
 								</div>
-								<p><a href="#">Sample Featured Product</a></p>
+							
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="img/products/4.gif" alt="" />
+									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
 									<div class="mask">
-										<h2>$69</h2>
-				                        <p>Product description Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				                        <a href="product.html" class="info">View</a> <a href="checkout.html" class="info">Buy</a>
+										<h2>Bamboo Brush</h2>
+				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+				                       
 									</div>
 								</div>
-								<p><a href="#">Sample Featured Product</a></p>
+								
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="img/products/5.gif" alt="" />
+									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
 									<div class="mask">
-										<h2>$69</h2>
-				                        <p>Product description Vestibulum ante ipsum primis in faucibus orci luctus.</p>
-				                        <a href="product.html" class="info">View</a> <a href="checkout.html" class="info">Buy</a>
+										<h2>Bamboo Brush</h2>
+				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+				                       
 									</div>
 								</div>
-								<p><a href="#">Sample Featured Product</a></p>
-							</article>
+							
 						  </div>
 						</div> <!-- End tab-content -->
 

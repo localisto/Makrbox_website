@@ -7,9 +7,9 @@
 			<section class="row foot">
 					<article class="span3">
 						<strong>Subscribe</strong>
-						<p>Ut dolore veniam ullamcorper iriure molestie in commodo aliquip sed in enim</p>
+						<p>Do you want to receive a box of handcrafted maker goods each month? We send quality items that are useful and will make your friends say "that so cool, where did you get that".  Join the club today.</p>
 						<div>
-							<button class="btn btn-large theme" type="button">Subscribe Now</button>
+						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N"><button class="btn btn-large theme" type="button">Subscribe Now</button></a>
 						</div>
 
 					</article>
@@ -21,7 +21,7 @@
 						<li><a href="post-right-sidebar.html">Product Image Galleries</a><br /><small>posted on June 13, 2012</small></li>
 						<li><a href="post-right-sidebar.html">So many options Reign is feature-packed</a><br /><small>posted on May 9, 2012</small></li>
 					</ul> -->
-					<div class="fb-like-box" data-href="https://www.facebook.com/makrbox" data-width="220" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false"></div>
+					<div class="fb-like-box" data-href="https://www.facebook.com/makrbox" data-width="220" data-show-faces="true" data-stream="false" data-show-border="false" data-header="false"></div> 
 				</article>
 				<article class="span3">
 					<strong>Tweets</strong>
@@ -30,12 +30,12 @@
 					<article class="span3">
 						<strong>Quick Links</strong>
 						<ul>
-							<li><a href="#">Home</a></li>
-							<li><a href="#">Subscribe</a></li>
-							<li><a href="#">How it Works</a></li>
-							<li><a href="#">FAQ</a></li>
-							<li><a href="#">About Us</a></li>
-							<li><a href="#">Contact Us</a></li>
+							<li><a href="/">Home</a></li>
+							<li><a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">Subscribe</a></li>
+							<li><a href="/how-it-works">How it Works</a></li>
+							<li><a href="/faq">FAQ</a></li>
+					
+							<li><a href="/contact">Contact Us</a></li>
 						</ul>
 					</article>
 			
@@ -69,14 +69,17 @@
 					-->
 				</div>
 				<div class="span6 currency">
-					<a href="#" class="active">Subscribe Now</a> 
+					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N" class="active">Subscribe Now</a> 
+						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTXZRGFPP4VEJ" class="active">TEST Subscribe Now</a> 
+				
+				
 				</div>
 				</div>
 			</section>
 	
 			<section class="row-fluid social">
 				<div class="container">
-				<div class="pull-left">&copy; 2012 TenderShop</div>
+				<div class="pull-left">&copy; 2013 MakrBox LLC</div>
 				<div class="pull-right">
 					<ul>
 						<li><a href="https://www.facebook.com/makrbox"><i class="icon-facebook"></i></a></li>
@@ -93,7 +96,7 @@
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
-<script type="text/javascript" src="/js/jquery.tweet.js"></script> 
+<script type="text/javascript" src="/js/jquery.tweet.js"></script>  
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/shop.js"></script>
 <script type="text/javascript" src="/js/script.js"></script>
