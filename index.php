@@ -13,11 +13,11 @@
 		<div class="container">
 				<div id="landing" class="row-fluid">
 					<div class="span6">
-					<img src="mbimages/box1.jpg" width="300" height="200" alt="Box1">	
+					<img src="mbimages/box3.jpg" width="400" height="300" alt="Box1">	
 					</div>
 					<div class="span6">
-						<h1>Makr Box</h1>
-						<p>Ut dolore veniam ullamcorper iriure molestie in commodo aliquip sed in enim accumsan iriure iusto. </p>
+						<h1>GET HANDMADE <br/> MAKER GOODS <br/> EVERY MONTH</h1>
+						<p>We source and ship you 2-3 sustainable, <br/> useful household items each month.</p>
 					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=4GUEQQZWJTQMQ">	<button class="btn btn-large theme" type="button">Subscribe Now</button></a>
 					</div>
 				</div>
@@ -55,8 +55,8 @@
 		<div class="container" style="display:block">
 			
 				<div class="row-fluid">
-					<article class="span4"><img src="mbimages/tools.png" width="125" height="125" alt="Tools"><h2>Makers</h2><p>We scour for talented makers who are designing and building incredible products</p></article>
-					<article class="span4"><img src="mbimages/arrow.png" width="125" height="125" alt="Arrow"><h2>Delivered</h2><p>Every month we send you an unique hand-made gift from our maker partners</p></article>
+					<article class="span4"><img src="mbimages/tools.png" width="125" height="125" alt="Tools"><h2>Maker Objects</h2><p>We find talented makers who are designing and building incredible products</p></article>
+					<article class="span4"><img src="mbimages/arrow.png" width="125" height="125" alt="Arrow"><h2>Delivered</h2><p>Every month we send you 2-3 unique handmade gifts from our maker partners</p></article>
 					<article class="span4"><img src="mbimages/box.png" width="125" height="125" alt="Box"><h2>To You</h2><p>Enjoy the product or save it and give it to a friend for that special occasion</p></article>
 				</div>
 		</div>

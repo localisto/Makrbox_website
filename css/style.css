@@ -743,7 +743,7 @@ margin: 0 0px 18px 13px !important;
 #landing p, #landing h1 { display: block; text-align: center;
     margin: 0 auto;}
 #landing p {padding-bottom: 20px;}
-#landing h1 {padding-top: 40px;}
+#landing h1 {padding-top: 40px; padding-bottom: 20px;}
 
 article {padding-top: 20px; padding-bottom: 20px;}
 
@@ -751,6 +751,7 @@ article {padding-top: 20px; padding-bottom: 20px;}
 
 
 #howitworks .row {padding-bottom: 30px}
+#howitworks p {font-size: 16px}
 
 .calltoaction { background:black; padding: 30px 0px;}
 

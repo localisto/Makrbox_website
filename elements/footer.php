@@ -82,8 +82,8 @@
 						<li><a href="https://www.facebook.com/makrbox"><i class="icon-facebook"></i></a></li>
 						<li><a href="https://twitter.com/makrbox"><i class="icon-twitter"></i></a></li>
 						<li><a href="http://pinterest.com/makrbox/"><i class="icon-pinterest"></i></a></li>
-					<!--	<li><a href="#"><i class="icon-instagrem"></i></a></li>-->
-						<li><a href="http://makrbox.tumbler.com"><i class="icon-tumblr"></i></a></li> 
+					<!--	<li><a href="#"><i class="icon-tumblr"></i></a></li>-->
+						<li><a href="http://makrbox.tumbler.com"><i class="icon-instagrem"></i></a></li> 
 					</ul>
 				</div>
 				</div>
