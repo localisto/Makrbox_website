@@ -8,19 +8,23 @@
 		<!-- Main Slider -->
 		<!-- =========== -->
 
-		<div class="homepagecontainer">
-		<div class="slides home-span12">
-		<div class="container">
-				<div id="landing" class="row-fluid">
-					<div class="span6">
-					<img src="mbimages/box3.jpg" width="400" height="300" alt="Box1">	
-					</div>
-					<div class="span6">
-						<h1>GET HANDMADE <br/> MAKER GOODS <br/> EVERY MONTH</h1>
-						<p>We source and ship you 2-3 sustainable, <br/> useful household items each month.</p>
-					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">	<button class="btn btn-large theme" type="button">Subscribe Now</button></a>
-					</div>
+	  <div class="homepagecontainerx">
+
+		
+				<div class="container">
+					<div id="landing" class="row-fluid">
+					
+
+					
+						<div class="span6 heroinfo">
+							<h1>GET HANDMADE <br/> MAKER GOODS <br/> EVERY MONTH</h1>
+							<p>We source and ship you 2-3 sustainable, <br/> useful household items each month.</p>
+							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">	<button class="btn btn-large theme" type="button">Subscribe Now</button></a>
+						</div>
+					</div> 
 				</div>
+		
+		</div>
 			
 			
 	<!--		<div id="flexslider" class="flexslider row">
@@ -45,8 +49,8 @@
 			  </ul>
 			</div> -->
 			
-		</div>
-		</div>
+	<!--	</div>
+		</div> -->
 		<div class="clearfix"></div>
 		<!-- =================== -->
 		<!-- Promo Banner Option -->
@@ -92,7 +96,7 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
+								<img src="mbimages/examples/wrap.jpg" width="400" height="400" alt="Wrap">
 									<div class="mask">
 										<h2>Bamboo Brush</h2>
 				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
@@ -103,7 +107,7 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
+								<img src="mbimages/examples/teatowl.jpg" width="400" height="400" alt="Teatowl">
 									<div class="mask">
 										<h2>Bamboo Brush</h2>
 				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
@@ -114,7 +118,7 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
+									<img src="mbimages/examples/tealight.jpg" width="400" height="400" alt="Tealight">
 									<div class="mask">
 										<h2>Bamboo Brush</h2>
 				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
@@ -125,7 +129,7 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
+								<img src="mbimages/examples/snackbag.jpg" width="400" height="400" alt="Snackbag">
 									<div class="mask">
 										<h2>Bamboo Brush</h2>
 				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
@@ -136,7 +140,7 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
+								<img src="mbimages/examples/coasters.jpg" width="400" height="400" alt="Coasters">
 									<div class="mask">
 										<h2>Bamboo Brush</h2>
 				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>

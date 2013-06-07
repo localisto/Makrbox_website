@@ -19,7 +19,7 @@
 			</div>
 
 			<div class="wrap">
-				<div class="row">
+				<div class="row bpadding">
 
 		
 
@@ -34,32 +34,24 @@
 				</div></div>
 
 
-			<div class="row-fluid">
+			<div class="row-fluid onetwothree">
 				
-						<div class="span4"><img src="../mbimages/arrow.png" width="115" height="115" alt="Tools"></div>
-						<div class="span4"><img src="../mbimages/box.png" width="115" height="115" alt="Tools"></div>
-						<div class="span3"><img src="../mbimages/box.png" width="115" height="115" alt="Tools"></div>
-
-			</div>
-
-			<div class="row-fluid">
-						<div class="span4">
-							<h5>1. JOIN MAKRBOX </h5>
-						<p>
-  							Click 'subscribe' and enter your details. 
-						</p></div>
-
-						<div class="span4">
-							<h5>2. WE SOURCE</h5>
-						<p>
-  							Every month we select 2-3 items, pack them in a cool reusable box and send them to your home or office.
-						</p></div>
-
-						<div class="span4">
-							<h5>3. YOU DISCOVER COOL STUFF</h5>
+						<div class="span4"><img src="../mbimages/arrow.png" width="115" height="115" alt="Tools"><h5>1. JOIN MAKRBOX </h5>
+					<p>
+						Click 'subscribe' and enter your details. 
+					</p></div>
+						<div class="span4"><img src="../mbimages/box.png" width="115" height="115" alt="Tools"><h5>2. WE SOURCE</h5>
+					<p>
+						Every month we select 2-3 items, pack them in a cool reusable box and send them to your home or office.
+					</p></div>
+						<div class="span3"><img src="../mbimages/box.png" width="115" height="115" alt="Tools">	<h5>3. YOU DISCOVER COOL STUFF</h5>
 						<p>
   							You get handmade, unique and useful things for your home or apartment. Keep them forever or give one away as a gift. 
 						</p></div>
+
+			</div>
+
+	
 
 
 			</div>
