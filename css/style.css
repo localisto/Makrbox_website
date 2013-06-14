@@ -715,6 +715,7 @@ margin: 0 0px 18px 13px !important;
 	#nav { display: none !important}
 	.container-menu {background: none; border: none;}
 	.js .selectnav { display: block; font-size:0.9em}
+
 }
 
 @media (max-width: 480px) {
@@ -734,16 +735,18 @@ margin: 0 0px 18px 13px !important;
 
 }
 
-#landing img {display: block;
-   margin: 0 auto; padding-top:20px;}
+
+#landing p {font-family: 'helvetica'; font-size: 24px; line-height:29px; font-weight:400;}
+#landing img {padding: 50px 0px 32px 0px;}
 
 #landing button { display: block;
-    margin: 0 auto;}
+}
 
-#landing p, #landing h1 { display: block; text-align: center;
-    margin: 0 auto;}
-#landing p {padding-bottom: 20px;}
-#landing h1 {padding-top: 40px; padding-bottom: 20px;}
+#landing p, #landing h1 { display: block; text-align: left;
+    margin: 0 auto; }
+#landing p {padding-bottom: 35px;}
+#landing h1 {padding-top: 40px; padding-bottom: 20px;  font-size: 26px;
+    line-height: 30px;}
 
 article {padding-top: 20px; padding-bottom: 20px;}
 
@@ -758,24 +761,75 @@ article {padding-top: 20px; padding-bottom: 20px;}
 .getintouchlogo {}
 .getintouch {line-height: 27px; margin-top: 66px; }
 
-.getintouch a {color: #E55137}
+p a, .getintouch a {color: #E55137}
 
 .lnotice {font-style:italic; padding: 0px 50px; margin-top:30px;}
 
 /*.heroimg {overflow: hidden;
    position: relative;}*/
-.heroinfo {
-background: none repeat scroll 0 0 rgba(255, 255, 255, 0.9); padding-bottom: 45px;}
+.heroinfo { color:white;
+ padding-bottom: 45px;}
 
-* {font-family: "helvetica"}
+
+@import url(http://fonts.googleapis.com/css?family=Balthazar);
+/* {font-family: 'Balthazar', serif;}*/
+h1,h2,h3,h4,h5 {font-family: "helvetica"}
+
 
 /* h3, a {color: #3399cc;} */
 
 .bpadding {padding-bottom: 60px!important;}
 
-.onetwothree img {margin-bottom: 20px;}
+.onetwothree img {margin-bottom: 30px;}
+
+.onetwothree {margin-top: 20px; margin-bottom:20px;}
+
+.onetwothree {text-align:center;}
+.onetwothree p {margin: 20px;}
 
 #faq p {padding-bottom: 20px;}
 
-.homepagecontainerx {background: url('../mbimages/xhero.jpg'); background-repeat: no-repeat;
-background-position: center;  background-size: 100%;}
+.homepagecontainerx {background: url('../mbimages/bg_wood.jpg'); background-repeat: no-repeat;
+background-position: center;  background-size: 100%;  border-bottom: 2px solid #DDDDDD;}
+
+
+
+@media (max-width: 800px) {
+	.homepagecontainerx {background-image: none;}
+		.heroinfo { color:black;}
+}
+
+
+
+.havingtroub {text-align:center; font-size:1.5em; line-height:1.5em;}
+
+.calltoaction h2 {font-size: 25px; color:white; margin-top: 10px;}
+.calltoaction
+
+p a:hover, .getintouch a:hover {color:#28a853 }
+
+.promo img {margin-top: 26px; margin-bottom: 35px;}
+
+button span {display: block; font-size: 13px; font-style: italic;}
+
+.btn-large {
+    padding: 12px 54px;}
+
+.view p {font-size: 15px;
+    line-height: 19px;}
+.view-thumb p {height: 200px;}
+
+
+#sitebanner { background:#a9ceaf; width:100%; z-index:9999; padding: 10px 0px; display:none;}
+#sitebanner a {cursor:pointer;}
+
+@media (max-width: 800px) {
+	#sitebanner { margin-left: -20px;
+    margin-right: 40px;
+    padding-left: 40px;
+   
+   }
+}
+
+.fb_edge_widget_with_comment span.fb_edge_comment_widget iframe.fb_ltr {
+display: none !important;}

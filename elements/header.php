@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html lang="en">
+<html xmlns:fb="http://ogp.me/ns/fb#" lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>MakrBox</title>
@@ -58,8 +58,21 @@
 		
 	</head>
 
-	<body class="wf-active">	
-		
+	<body class="wf-active">
+		<script type="text/javascript">
+
+		  var _gaq = _gaq || [];
+		  _gaq.push(['_setAccount', 'UA-41576724-1']);
+		  _gaq.push(['_setDomainName', 'makrbox.com']);
+		  _gaq.push(['_trackPageview']);
+
+		  (function() {
+		    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+		    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+		    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+		  })();
+
+		</script>
 		<div id="fb-root"></div>
 		<script>(function(d, s, id) {
 		  var js, fjs = d.getElementsByTagName(s)[0];
@@ -69,9 +82,31 @@
 		  fjs.parentNode.insertBefore(js, fjs);
 		}(document, 'script', 'facebook-jssdk'));</script>
 		
+		
+		
+		
 		<!-- =========== -->
 		<!-- Top section -->
 		<!-- =========== -->
+		<div id="sitebanner">
+			<div class="container">
+				
+				<div class="span8">Welcome, Seattle Maker Faire Friends! Great meeting you all this past weekend!<br /><i>The raffle <b>WINNNER</b> is number <b>20188</b>!</i>
+					(<a mailto:hello@makrbox.com>email us to claim your prize)</a><br />
+					Please like us and follow us for more chances to win
+					</div>
+					
+					<div class="span3">
+					
+			<fb:like href="https://www.facebook.com/makrbox" send="false" width="450" show_faces="false"></fb:like>
+	
+					<a href="https://twitter.com/makrbox" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @makrbox</a>
+					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
+</div></div>
+		</div>
+		
+	
+		
 		
 		<div class="header-container">
 		<div class="container welcome">

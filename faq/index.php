@@ -31,7 +31,7 @@ The maker scene has exploded the last couple years, but we still found it diffic
 
 In 2013 we created MakrBox to connect quality handmade products with a more expansive audience through a simple monthly delivery of 2-3 household goods.
  
-Our MakrBox team can be found creating and innovating various items ourselves that align with our mission of supporting sustainable, repurposed and natural products.
+<!-- Our MakrBox team can be found creating and innovating various items that align with our mission of supporting sustainable, repurposed and natural products. -->
 			</p>
 
 	
@@ -45,7 +45,7 @@ Our MakrBox team can be found creating and innovating various items ourselves th
 
       	<h5>What kind of items will I get?</h5> 
 
-						<p> Every month you'll receive 2-3 items you'll find useful around your home. Browse our gallery to check out past goods. Most popular items include: a bamboo bath brush that conveniently holds your soap, a natural reusable wax paper alternative to saran wrap, and handmade tea towel with locally inspired designs. </p>
+						<p>Each month our mission it to send you two or three maker items with WOW factor.   We define WOW factor as a mixture of sustainable production, artful craftsmanship and thoughtful design.  Most importantly the goods we send must be useful in your day-to-day lifestyle and make your friends say, “wow, that's incredible, where did you get that!”   Our box is for those who appreciate design and know there is always a better alternative to everything.  <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">Subscribe today!</a></p>
 
 
 			<h5>What if I don't like an item?</h5>
@@ -64,11 +64,11 @@ Our MakrBox team can be found creating and innovating various items ourselves th
 			<h5>I need to change my address, where can I do so?</h5> 
 							<p>Send us an email at <a href="service@makrbox.com">service@makrbox.com</a> with your name, old address and new address. </p>
 						
-									<p>Our makers produce unique items for our member's first box, so we are unable to cancel the first box order. However,  if you're not pleased with the items you get you can cancel your membership at anytime after the first box.</p>
+							<!--		<p>Our makers produce unique items for our member's first box, so we are unable to cancel the first box order. However,  if you're not pleased with the items you get you can cancel your membership at anytime after the first box.</p>
 				
-		<!--	<h5>Am I able to cancel my membership before my first box has shipped?</h5> 
+			<h5>Am I able to cancel my membership before my first box has shipped?</h5> -->
 						
-									<p>Our makers produce unique items for our member's first box, so we are unable to cancel the first box order. However,  if you're not pleased with the items you get you can cancel your membership at anytime after the first box.</p> -->
+							<!--		<p>Our makers produce unique items for our member's first box, so we are unable to cancel the first box order. However,  if you're not pleased with the items you get you can cancel your membership at anytime after the first box.</p> -->
 					
 					<h5>How do I cancel my membership? / When can I cancel?</h5> 	
 								<p>There is no commitment, you can cancel anytime. If your box for the month hasn't shipped we will issue you a refund. Send us an email at <a href="service@makrbox.com">service@makrbox.com</a> </p>

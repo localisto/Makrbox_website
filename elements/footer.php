@@ -9,7 +9,7 @@
 						<strong>Subscribe</strong>
 						<p>Do you want to receive a box of handcrafted maker goods each month? We send quality items that are useful and will make your friends say "that so cool, where did you get that".  Join the club today.</p>
 						<div>
-						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N"><button class="btn btn-large theme" type="button">Subscribe Now</button></a>
+						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N"><button class="btn btn-block theme" type="button">Subscribe Now<span>(only $29 per month)</span></button></a>
 						</div>
 
 					</article>
@@ -70,8 +70,7 @@
 				</div>
 				<div class="span6 currency">
 					<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N" class="active">Subscribe Now</a> 
-						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=VTXZRGFPP4VEJ" class="active">TEST Subscribe Now</a> 
-				
+					
 				
 				</div>
 				</div>
@@ -95,11 +94,22 @@
 	</footer>
 
 <script type="text/javascript" src="http://ajax.googleapis.com/ajax/libs/jquery/1.8.2/jquery.min.js"></script>
+<script src="//ajax.googleapis.com/ajax/libs/jqueryui/1.10.3/jquery-ui.min.js"></script>
 <script type="text/javascript" src="http://maps.googleapis.com/maps/api/js?sensor=false"></script>
 <script type="text/javascript" src="/js/jquery.tweet.js"></script>  
 <script type="text/javascript" src="/js/bootstrap.min.js"></script>
 <script type="text/javascript" src="/js/shop.js"></script>
 <script type="text/javascript" src="/js/script.js"></script>
+
+<script>
+
+$(document).ready(function () {
+
+
+        $('#sitebanner').slideDown('slow').delay(2000).slideDown('slow');
+    });
+
+	</script>
 
 </body>
 </html>
