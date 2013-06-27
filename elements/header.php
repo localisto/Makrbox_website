@@ -1,5 +1,5 @@
 <!DOCTYPE html>
-<html xmlns:fb="http://ogp.me/ns/fb#" lang="en">
+<html lang="en">
 	<head>
 		<meta charset="utf-8">
 		<title>MakrBox</title>
@@ -8,9 +8,9 @@
 		<!-- Metatag -->
 		<meta property="og:title" content="MakrBox" />
 		<meta property="og:type" content="website" />
-		<meta property="og:description" content="Subscription box of Makr Items" />
-		<meta property="og:url" content="http://ninetheme.com/" />
-		<meta property="og:image" content="http://ninetheme.com/logo.png" />
+		<meta property="og:description" content="MakrBox™ is a monthly subscription of awesome maker goods delivered to you." />
+		<meta property="og:url" content="http://makrbox.com/" />
+		<meta property="og:image" content="http://makrbox.com/mbimages/boxofgoods.png" />
 		
 		<link rel="stylesheet" href="/css/bootstrap.min.css" />
 		<link rel="stylesheet" href="/css/font.css" />
@@ -53,7 +53,7 @@
 			<script src="http://html5shim.googlecode.com/svn/trunk/html5.js"></script>
 		<![endif]-->
 		<!--[if IE 7]>
-			<link rel="stylesheet" href="css/ie7.css" />
+			<link rel="stylesheet" href="/css/ie7.css" />
 		<![endif]-->
 		
 	</head>
@@ -88,22 +88,7 @@
 		<!-- =========== -->
 		<!-- Top section -->
 		<!-- =========== -->
-		<div id="sitebanner">
-			<div class="container">
-				
-				<div class="span8">Welcome, Seattle Maker Faire Friends! Great meeting you all this past weekend!<br /><i>The raffle <b>WINNNER</b> is number <b>20188</b>!</i>
-					(<a mailto:hello@makrbox.com>email us to claim your prize)</a><br />
-					Please like us and follow us for more chances to win
-					</div>
-					
-					<div class="span3">
-					
-			<fb:like href="https://www.facebook.com/makrbox" send="false" width="450" show_faces="false"></fb:like>
 	
-					<a href="https://twitter.com/makrbox" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @makrbox</a>
-					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
-</div></div>
-		</div>
 		
 	
 		
@@ -111,17 +96,7 @@
 		<div class="header-container">
 		<div class="container welcome">
 			<div class="row-fluid">
-			<!--	<div class="pull-left greet">
-					Welcome shopper, <a href="login.html">login here</a>
-				</div> -->
-			<!--	<div class="pull-right cart tright">
-					
-					<!-- Cart Updates -->
-				<!--	<div class="counter">
-						<a href="javascript:void(0);"><i class="icon-basket"></i> Your cart </a> : <span class="theme">$139</span>
-					</div> -->
-					
-					<!-- Bubble Cart Item -->
+			
 				
 				</div>
 			</div>	
@@ -185,4 +160,4 @@
 			</div>
 		</div>
 		</div>
-		</div>
+		

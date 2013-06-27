@@ -785,7 +785,9 @@ h1,h2,h3,h4,h5 {font-family: "helvetica"}
 .onetwothree {margin-top: 20px; margin-bottom:20px;}
 
 .onetwothree {text-align:center;}
-.onetwothree p {margin: 20px;}
+.onetwothree p {margin: 20px;  font-size: 18px;
+    line-height: 25px;
+    margin: 20px;}
 
 #faq p {padding-bottom: 20px;}
 
@@ -820,7 +822,7 @@ button span {display: block; font-size: 13px; font-style: italic;}
 .view-thumb p {height: 200px;}
 
 
-#sitebanner { background:#a9ceaf; width:100%; z-index:9999; padding: 10px 0px; display:none;}
+#sitebanner { background:#faffdc; border-bottom: 1px solid #f0f7be;  width:100%; z-index:9999; padding: 10px 0px; display:none;}
 #sitebanner a {cursor:pointer;}
 
 @media (max-width: 800px) {

@@ -1,8 +1,10 @@
-<!-- =========== -->
-<!-- Contact    -->
-<!-- =========== -->
+
 	
 		<?php include '../elements/header.php'; ?>
+		
+		<!-- =========== -->
+		<!-- Contact    -->
+		<!-- =========== -->
 		
 		<div class="container">
 

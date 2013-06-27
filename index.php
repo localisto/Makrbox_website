@@ -1,8 +1,10 @@
-<!-- =========== -->
-<!-- HomePage    -->
-<!-- =========== -->
+
 		
 		<?php include 'elements/header.php'; ?>
+		
+		<!-- =========== -->
+		<!-- HomePage    -->
+		<!-- =========== -->
 		
 		<!-- =========== -->
 		<!-- Main Slider -->
@@ -70,11 +72,11 @@
 						<img src="../mbimages/source.png" width="100" height="100" alt="Source">
 						<h5>2. WE SOURCE</h5>
 					<p>
-						Every month we source unique and useful items that you'll love.
+						Every month we work with our network of talented makers, craftsmens and designer to find awesome handcrafted design forward goods. 
 					</p></div>
 						<div class="span4"><img src="../mbimages/discover.png" width="100" height="100" alt="Discover"><h5>3. YOU DISCOVER COOL STUFF</h5>
 						<p>
-  							You get handcrafted, unique and useful things for your home or apartment. Keep them forever or give one away as a gift. 
+  							We send you unique and useful goods for your home or apartment. Keep them forever or give one away as a gift.  You will love getting our package every month!
 						</p></div>
 
 			</div>
@@ -153,6 +155,7 @@
 								</div>
 								
 							</article>
+							
 							<article class="span4">
 								<div class="view view-thumb">
 								<img src="mbimages/examples/coasters.jpg" width="400" height="400" alt="Coasters">
@@ -162,7 +165,7 @@
 				                       
 									</div>
 								</div>
-							
+									</article>
 						  </div>
 						</div> <!-- End tab-content -->
 
@@ -194,7 +197,7 @@
 			</section>
 
 		</div>
-		</div>
+	
 
 <?php include 'elements/footer.php'; ?>
 

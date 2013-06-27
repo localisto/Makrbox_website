@@ -7,7 +7,7 @@
 			<section class="row foot">
 					<article class="span3">
 						<strong>Subscribe</strong>
-						<p>Do you want to receive a box of handcrafted maker goods each month? We send quality items that are useful and will make your friends say "that so cool, where did you get that".  Join the club today.</p>
+						<p>Do you want to receive a box of handcrafted maker goods each month? We send quality items that are useful and will make your friends say "that so cool, where did you get that?"  Join the club today.</p>
 						<div>
 						<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N"><button class="btn btn-block theme" type="button">Subscribe Now<span>(only $29 per month)</span></button></a>
 						</div>
