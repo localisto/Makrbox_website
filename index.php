@@ -102,10 +102,10 @@
 						  <div class="tab-pane active" id="feat">
 						  	<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/brush.jpg" width="400" height="400" alt="Brush">
+									<img src="mbimages/examples/scrappad.jpg" width="400" height="400" alt="Note Pads">
 									<div class="mask">
-										<h2>Bamboo Brush</h2>
-				                        <p>Handcrafted brush built from reclaimed wood and designed for erganomics</p>
+										<h2>Notepad</h2>
+				                        <p>This notepad is a collaboration of the Portland-based art gallery Land and artist Nikki McClure. Nikki and Land re- purposed imperfect calendars into a beautiful sketch pad made specifically for those notes that still need pen and paper.</p>
 				                       
 									</div>
 								</div>
@@ -124,10 +124,10 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-								<img src="mbimages/examples/teatowl.jpg" width="400" height="400" alt="Teatowl">
+								<img src="mbimages/examples/charsoap.jpg" width="400" height="400" alt="Teatowl">
 									<div class="mask">
-										<h2>Tea Towel</h2>
-				                        <p>This organic cotton flour sack towel has been screen printed with an original hand drawn Mason Jar print. This maker only uses the highest quality fabric inks that are sure to stand up to the everyday wear and tear of your kitchen.</p>
+										<h2>FavorNature</h2>
+				                        <p>"Miner pore refiner" is made up of char- coal and anise. The charcoal helps gently exfoliate and the anise adds a licorice like fragrance and antibacterial properties. It’s gentle enough to be used on your face, but great to use all over your body in the shower.</p>
 				                       
 									</div>
 								</div>
@@ -135,10 +135,10 @@
 							</article>
 							<article class="span4">
 								<div class="view view-thumb">
-									<img src="mbimages/examples/tealight.jpg" width="400" height="400" alt="Tealight">
+									<img src="mbimages/examples/chopstick.jpg" width="400" height="400" alt="Tealight">
 									<div class="mask">
-										<h2>Tea Candle Holders</h2>
-				                        <p>This is up cycling at it's best. These eco candle holder were created from 100 % recycled materials and cement. Great for indoor and outdoor use.</p>
+										<h2>Chopstick Basket</h2>
+				                        <p>This basket is made of 100% repur- posed bamboo chopsticks. They're col- lected from restaurants, sanitized at high temperatures and dyed naturally with black tea. The basket can be used to hold vegetables, small items such as keys, or used as a colander for this sea- sons fresh cherries. When not being used, simply fold it and store in a drawer.</p>
 				                       
 									</div>
 								</div>
@@ -158,10 +158,10 @@
 							
 							<article class="span4">
 								<div class="view view-thumb">
-								<img src="mbimages/examples/coasters.jpg" width="400" height="400" alt="Coasters">
+								<img src="mbimages/examples/spoon.jpg" width="400" height="400" alt="Coasters">
 									<div class="mask">
-										<h2>Cedar Coasters</h2>
-				                        <p>These branded Cedar coasters are made from reclaimed and repurposed wood that was headed for the landfill. It's a 100% recycled product and 100% useful. This maker has been keeping usable wood out of the local landfill since 2010.</p>
+										<h2>Wood Spoon</h2>
+				                        <p></p>
 				                       
 									</div>
 								</div>
