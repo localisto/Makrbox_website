@@ -746,7 +746,7 @@ margin: 0 0px 18px 13px !important;
     margin: 0 auto; }
 #landing p {padding-bottom: 35px;}
 #landing h1 {padding-top: 40px; padding-bottom: 20px;  font-size: 26px;
-    line-height: 30px;}
+    line-height: 30px; margin: 0 20px;}
 
 article {padding-top: 20px; padding-bottom: 20px;}
 
@@ -768,7 +768,7 @@ p a, .getintouch a {color: #E55137}
 /*.heroimg {overflow: hidden;
    position: relative;}*/
 .heroinfo { color:white;
- padding-bottom: 45px;}
+ padding-bottom: 45px;  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);}
 
 
 @import url(http://fonts.googleapis.com/css?family=Balthazar);
@@ -798,7 +798,7 @@ background-position: center;  background-size: 100%;  border-bottom: 2px solid #
 
 @media (max-width: 800px) {
 	.homepagecontainerx {background-image: none;}
-		.heroinfo { color:black;}
+		.heroinfo { color:black; background:none;}
 }
 
 
