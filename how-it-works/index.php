@@ -32,13 +32,22 @@
 					<div class="span7">
 						<h5>OUR MAKER PARTNERS</h5>
 				<p>
-							All MakrBox goods are sourced from our network of artisans and craftspeople. Each one is a straightforward and well-designed object you'll love.
+							Any given day you can find us scouring the maker world discovering new products.
+
+							MakrBox goods are sourced from our network of artisans and craftspeople. Each one is a straightforward and well-designed object you'll love.
 							We are dedicated to choosing items that are durable, sustainable and above all- useful. Join and support a community of creative young craftsmen!						
 				</p></div>
 				</div></div>
 
+<div class="row-fluid">
+	<h4>We find awesome people, making awesome things...and send them to you to enjoy and share with your friends!</h4>
+				<!-- SnapWidget -->
+<iframe src="http://snapwidget.com/in/?u=bWFrcmJveHxpbnwxMDB8OHwxfHx5ZXN8NXxub25l" allowTransparency="true" frameborder="0" scrolling="yes" style="border:none; overflow:hidden; width:920px; height: 115px" ></iframe>
 
-				<div class="container" style="display:block">
+</div>
+
+
+			<!--	<div class="container" style="display:block">
 			
 						<div class="row-fluid">
 							<article class="span4"><img src="/mbimages/tools.png" width="100" height="100" alt="Tools"><h2>Maker Objects</h2><p>We find talented makers who are designing and building incredible products</p></article>
@@ -47,7 +56,7 @@
 						</div>
 				</div>
 		
-	
+	-->
 
 
 		

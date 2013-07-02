@@ -16,7 +16,7 @@
 
 			<div class="row">
 				<header class="span12 prime">
-					<h3>Get a Hold of Us</h3>
+					<h3>Get in Touch</h3>
 				</header>
 			</div>
 
@@ -30,8 +30,8 @@
 				</div>
 					<div class="span6">
 						<div class="pull-left getintouch">
-						<h4>Have a problem?  Have an idea?</h4>
-						<h4>Get in touch</h4>
+						<h4>Have a question?  Have an idea?</h4>
+						<h4>We are located in Seattle, WA. </br>Drop us a line.</h4>
 						 General Questions & Order Inquiries: <a href="mailto:hello@makrbox.com">Contact Us here</a><br/>
 						 FAQ’s: <a href="/faq">Find answers here</a><br/>
 						 BD, Partners and Makers: <a href="mailto:partnerships@makrbox.com">Partner with us</a><br/>
