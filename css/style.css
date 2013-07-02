@@ -739,7 +739,7 @@ margin: 0 0px 18px 13px !important;
 #landing p {font-family: 'helvetica'; font-size: 24px; line-height:29px; font-weight:400;}
 #landing img {padding: 50px 0px 32px 0px;}
 
-#landing button { display: block;
+#landing button { display: block; margin: 0 20px;
 }
 
 #landing p, #landing h1 { display: block; text-align: left;
@@ -767,8 +767,8 @@ p a, .getintouch a {color: #E55137}
 
 /*.heroimg {overflow: hidden;
    position: relative;}*/
-.heroinfo { color:white;
- padding-bottom: 45px;  background: none repeat scroll 0 0 rgba(0, 0, 0, 0.8);}
+.heroinfo { color:white; -moz-border-radius
+ padding-bottom: 45px;  padding-bottom: 45px; background: none repeat scroll 0 0 rgba(0, 0, 0, 0.7);}
 
 
 @import url(http://fonts.googleapis.com/css?family=Balthazar);
