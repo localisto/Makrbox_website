@@ -31,7 +31,7 @@
 				</div>
 					<div class="span7">
 						<h5>GIVE MAKRBOX</h5>
-				<p>Makrbox is the perfect gift. No shopping, no wrapping, no hassel!  Just sign up and we do the rest.  Each month we will send 2 - 3 artisan goods to your friends, family and loved ones.  Go ahead it's fun and easy, <a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">click here to sign up </a>
+				<p>Makrbox is the perfect gift. No shopping, no wrapping, no hassel!  Just sign up and we do the rest.  Each month we will send 2 - 3 artisan goods to your friends, family and loved ones.  Go ahead it's fun and easy, <a href="http://makrbox.com/subscribe/">click here to sign up </a>
 							</p>				
 				</p></div>
 				</div></div>
@@ -44,7 +44,7 @@
 								<img src="../mbimages/pointer2.png" width="82" height="100" alt="Pointer2">
 								<h5>1. SIGN UP</h5>
 							<p>
-								It's easy to sign up , just click '<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">subscribe</a>'
+								It's easy to sign up , just click '<a href="http://makrbox.com/subscribe/">subscribe</a>'
 							</p></div>
 								<div class="span4">
 								<img src="../mbimages/source.png" width="100" height="100" alt="Source">

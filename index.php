@@ -28,7 +28,7 @@
 					</br>
 				</br>
 							<!--<p>Each month we send you  </p> -->
-							<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N">	<button class="btn btn-large theme" type="button">CLICK TO SUBSCRIBE<span>(only $29 per month)</span></button></a>
+							<a href="http://makrbox.com/subscribe/">	<button class="btn btn-large theme" type="button">CLICK TO SUBSCRIBE<span>(only $29 per month plus shippig)</span></button></a>
 						</div>
 					</div>
 				</div>

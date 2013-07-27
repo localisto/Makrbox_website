@@ -89,12 +89,12 @@
 		<!-- Top section -->
 		<!-- =========== -->
 	
-		<div id="sitebanner">
+	<!--	<div id="sitebanner">
 			<div class="container">
 				
-				<div class="span8">Welcome, Tieton Maker Faire Friends! Great meeting you all you this past weekend!<br /><i>The raffle <b>WINNER</b> is number <b>20209</b>!</i>
-					(<a mailto:hello@makrbox.com>email us to claim your prize)</a><br />
-					Please like us and follow us for more chances to win
+				<div class="span8">Welcome, Tieton Maker Faire Friends. Great meeting you all this past weekend!<br /><i>The raffle <b>WINNER</b> is number <b>20209</b>!</i>
+					(<a href="mailto:hello@makrbox.com">email us to claim your MakrBox)</a><br />
+					Like and follow MakrBox for more chances to win.
 					</div>
 					
 					<div class="span3">
@@ -104,7 +104,7 @@
 					<a href="https://twitter.com/makrbox" class="twitter-follow-button" data-show-count="false" data-show-screen-name="false">Follow @makrbox</a>
 					<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0],p=/^http:/.test(d.location)?'http':'https';if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src=p+'://platform.twitter.com/widgets.js';fjs.parentNode.insertBefore(js,fjs);}}(document, 'script', 'twitter-wjs');</script>
 </div></div>
-		</div>
+		</div> -->
 		
 	
 		
@@ -162,7 +162,7 @@
 							
 							</li>
 							<li>
-								<a href="https://www.paypal.com/cgi-bin/webscr?cmd=_s-xclick&hosted_button_id=KZQ43LS58F39N"><b>Subscribe</b></a>
+								<a href="http://makrbox.com/subscribe/"><b>Subscribe</b></a>
 
 							</li>
 							<li>
