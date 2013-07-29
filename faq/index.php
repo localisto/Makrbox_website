@@ -51,12 +51,12 @@ In 2013 we created MakrBox to connect quality handmade products with a more expa
 
 
 			<h5>What if I don't like an item?</h5>
-									<p> Our mothers taught us, "you don't always get what you want."  So in the case we send you something that doesn't fit your lifestyle put it in the back of your closet.  When Mother's day roles around and you've forgotten to get your mother something, check the back of your closet...you're welcome. But really, if you don't like one of the items then send us an email and we will get you something you do like- gauranteed  </p>
+									<p> Our mothers taught us, "you don't always get what you want."  So in the case we send you something that doesn't fit your lifestyle put it in the back of your closet.  When Mother's day roles around and you've forgotten to get your mother something, check the back of your closet...you're welcome. But really, if you don't like one of the items then contact us and we will get you something you do like- gauranteed.  </p>
 
 
 			<h5>What is a maker and the maker revolution?</h5> 
 								
-									<p>A maker is anyone who makes products with their hands, brains, technology, etc. The maker revolution is a part resurgence of real people creating handmade products and part democratization of technology. More tools to make products are now in the hands of everyday people, making the future possibility of maker products endless. What's the best part of the maker revolution? Anyone can be a maker!</p>
+									<p>A maker is anyone who makes products with their hands, brains, technology, etc. The maker revolution is part resurgence of real people creating handmade products and part democratization of technology. More tools to make products are now in the hands of everyday people, making the future possibility of maker products endless. What's the best part of the maker revolution? Anyone can be a maker!</p>
 
 				<h5>Are there any hidden fees?</h5> 
 					
